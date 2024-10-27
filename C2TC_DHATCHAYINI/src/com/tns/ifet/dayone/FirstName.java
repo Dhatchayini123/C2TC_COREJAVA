@@ -4,7 +4,12 @@ public class FirstName {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("welcomee");
+		int $number=20;
+		System.out.println("value of the number variable is: "+ $number);
+		
+		String studentName="Priya";
+		System.out.println("value is : "+studentName);
+	
 
 	}
 
